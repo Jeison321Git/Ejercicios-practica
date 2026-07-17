@@ -1,0 +1,9 @@
+Hacer un sanwich de atun
+1.Vamos a la tienda
+2.Compramos los ingredientes
+3.Volvemos a casa
+4.vamos a la cocina
+5.Sacamos los ingredientes
+6.ponemos el pan
+7.ponemos la lechuga
+8.ponemos el atun

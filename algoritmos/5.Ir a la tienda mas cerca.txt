@@ -1,0 +1,9 @@
+Ir a la tienda mas cerca
+1.Salgo de la casa
+2. bajo las escaleras
+3.abro la puerta
+4. cierro la puerta
+5.Salgo del patio
+6.Giro hacia la derecha
+7.Camino 2.30 metros
+8.La tienda estara a la derecha

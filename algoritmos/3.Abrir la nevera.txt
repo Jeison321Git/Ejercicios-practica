@@ -1,0 +1,4 @@
+Abrir la nevera
+1.Vamos a la cocina
+2.nos dirigimos hacia la nevera
+3.La abrimos

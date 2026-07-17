@@ -1,0 +1,11 @@
+Lavarse la cara
+1.Caminamos hacia el baño
+2.Abrimos la puerta del baño
+3.Entramos al baño
+4.cogemos el jabon
+5.abrimos la llave del agua del lavamanos
+6.frotamos el jabon en nuestras manos
+7. nos echamos el agua con jabon en la cara
+8.refregamos la cara
+9.cogemos la toalla
+10.nos secamos
