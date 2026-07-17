@@ -1,2 +1,2 @@
 # Ejercicios-practica
-Ejercicios Antiguos 
+Ejercicios
